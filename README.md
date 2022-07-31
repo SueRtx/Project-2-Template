@@ -14,9 +14,6 @@
 * REPL
 * CSS
 * Bootstrap   
-     css  
-       
-     css
 * HTML
  
 ## Description
